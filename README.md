@@ -24,4 +24,4 @@
 
 ### 📊 GitHub İstatistikleri
 
-![sefkanarslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sefkanarslan&show_icons=true&theme=default&cache_seconds=0)
+![sefkanarslan's GitHub stats](https://github-readme-stats-lac-nine.vercel.app/api?username=sefkanarslan&show_icons=true&theme=default)
