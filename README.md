@@ -1,7 +1,7 @@
 
 ### 👋 Merhaba, ben @sefkanarslan
 
-- 🎓 Akdeniz Üniversitesi'nde mühendislik öğrencisiyim ve şu anda staj sürecimi yürütüyorum
+- 🎓 Akdeniz Üniversitesi'nde mühendislik öğrencisiyim.
 - 🔭 ROV/AUV sistemleri, güç elektroniği (Buck, Boost, Buck-Boost, Flyback dönüştürücüler) ve gömülü kontrol sistemleri (ROS2, Gazebo, PID) üzerine çalışıyorum
 - 📱 React Native / Expo ile mobil uygulamalar geliştiriyorum; web tabanlı interaktif araçlar (canvas tabanlı simülasyonlar, oyunlar) üretiyorum
 - ⚙️ Yapısal test & doğrulama mühendisliği, NDT ve FEM konularına ilgi duyuyorum
